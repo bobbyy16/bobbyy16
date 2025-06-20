@@ -37,9 +37,6 @@
 #### 🧠 [Contentor (AI Generator)](https://github.com/bobbyy16/contentor)
 > AI-powered content generator using Next.js + Clerk + NeonDB. Fully deployed on Vercel.
 
-#### 🎨 [Free-Hit (Open Source UI)](https://free-hit.vercel.app/)
-> UI/UX contributions to open source project. [Behance](https://www.behance.net/gallery/168223797/Free-Hit-UIUX)
-
 ---
 
 ##
