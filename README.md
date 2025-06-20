@@ -42,31 +42,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bobbyy16&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbyy16&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bobbyy16&theme=darkhub&no-bg=true&margin-w=10" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bobbyy16&theme=tokyo-night" />
-</p>
-
----
-
+##
 ### 👁️ Visitors
 
 <p align="center">
