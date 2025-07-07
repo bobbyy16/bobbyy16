@@ -50,7 +50,7 @@
 
 ### 📫 Contact Me
 
-- **Portfolio:** [abhishkkumara.site](https://abhishkkumara.site)  
+- **Portfolio:** [abhishkkumara.site](https://abhishekkumara.site)  
 - **Email:** abhishekkumara1620@gmail.com  
 - **LinkedIn:** [linkedin.com/in/bobbyy16](https://linkedin.com/in/bobbyy16)
 
